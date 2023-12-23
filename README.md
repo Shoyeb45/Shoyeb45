@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Shoyeb Ansari
-- 👀 I’m interested in solving real life problem with coding. 
-- 🌱 I’m currently learning C and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 Email: shoyebff45@gmail.com
+-  Hi, I’m Shoyeb Ansari
+-  I’m interested in solving real life problem with coding. 
+-  I’m currently learning C, JavaScript and Python
+-  Email: shoyebff45@gmail.com
 
 <!---
 Shoyeb45/Shoyeb45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
