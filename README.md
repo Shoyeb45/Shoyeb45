@@ -1,9 +1,7 @@
--  Hi, I’m Shoyeb Ansari
--  I’m interested in solving real life problem with coding. 
--  I’m currently learning C, JavaScript and Python
+ -  Hey coders,
+-  My name is Shoyeb Ansari.
+-  And you know coding is very fun, I like to code. 
+-  I’m currently learning C, JavaScript, Java, HTML, CSS and Python
 -  Email: shoyebff45@gmail.com
 
-<!---
-Shoyeb45/Shoyeb45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
